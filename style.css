@@ -5,3 +5,9 @@ body {
 
 
 }
+header{
+border-bottom: solid 2px rgb(rgb(228, 10, 10), green, blue);
+padding: 20px;
+font-size:32px;
+color:rgb(218, 18, 18);
+}
